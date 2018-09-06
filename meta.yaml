@@ -29,7 +29,7 @@ requirements:
     - {{posix}}zip               # [win]
 
   host:
-    - r-base
+    - r-base=3.4.3
     - r-bookdown
     - r-htmltools
     - r-knitr
